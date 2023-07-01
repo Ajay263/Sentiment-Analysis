@@ -18,5 +18,7 @@ To achieve this goal, we will leverage the power of TensorFlow to develop a deep
   * Snscrape
   * Streamlit
 
-# 4. Data Architecture
+# 4. User  Interface 
+
+![alt img](https://github.com/Ajay263/Sentiment-Analysis/blob/main/img/img1.png)
 
