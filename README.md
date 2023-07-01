@@ -13,10 +13,10 @@ To achieve this goal, we will leverage the power of TensorFlow to develop a deep
 
 # 3. Technologies
 
-* Python
-* Tensorflow
-* Snscrape
-* Streamlit
+  * Python
+  * Tensorflow
+  * Snscrape
+  * Streamlit
 
 # 4. Data Architecture
 
