@@ -10,3 +10,13 @@ Sentiment analysis is an important tool for understanding customer feedback and 
 Sentiment analysis is a powerful tool for understanding the emotional response of individuals towards a particular topic or issue. In this project, we aim to use sentiment analysis to analyze the sentiment and recognize emotions expressed in social media posts, comments, and threads on twitter.
 
 To achieve this goal, we will leverage the power of TensorFlow to develop a deep learning model that can recognize the sentiment and emotions expressed in the text.I used Streamlit to develop a user-friendly interface that allows users to interact with the data and perform Sentiment analysis.
+
+# 3. Technologies
+
+* Python
+* Tensorflow
+* Snscrape
+* Streamlit
+
+# 4. Data Architecture
+
